@@ -68,6 +68,7 @@ export const languages = [
 	"it",
 	"ja",
 	"ko",
+	"mk",
 	"nl",
 	"pl",
 	"pt-BR",
