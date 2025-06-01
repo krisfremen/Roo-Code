@@ -1,0 +1,14 @@
+{
+	"number_format": {
+		"thousand_suffix": "илј",
+		"million_suffix": "мил",
+		"billion_suffix": "млрд"
+	},
+	"ui": {
+		"search_placeholder": "Пребарај..."
+	},
+	"mermaid": {
+		"loading": "Се генерира mermaid дијаграм...",
+		"render_error": "Не можеше да се прикаже дијаграмот"
+	}
+}
